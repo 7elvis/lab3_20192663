@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8373d526-09ac-4e59-b131-217fa2ffa0a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/demo1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/resources/templates/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/com/example/demo/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/main/java/com/example/demo/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/com/example/demo/controller/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/com/example/demo/controller/mascota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/com/example/demo/controller/sede.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/com/example/demo/controller/veterinario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/resources/templates/persona.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/main/resources/templates/persona.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -33,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -55,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713399667267</updated>
-      <workItem from="1713399668590" duration="1505000" />
+      <workItem from="1713399668590" duration="3248000" />
     </task>
     <servers />
   </component>
