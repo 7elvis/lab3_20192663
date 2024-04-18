@@ -29,6 +29,10 @@
                 <td th:text="${shipper.nombre}"></td>
                 <td th:text="${shipper.direccion}"></td>
                 <td th:text="${shipper.telefono}"></td>
+                <td><a class="btn btn-primary" th:href="@{'/sede/showVet?id=' + ${sede.id}}">Mostrar Veterinarios</a>
+                </td>
+                <td><a class="btn btn-primary" th:href="@{'/sede/showPet?id=' + ${sede.id}}">Mostrar Mascota</a>
+                </td>
 
 
 
